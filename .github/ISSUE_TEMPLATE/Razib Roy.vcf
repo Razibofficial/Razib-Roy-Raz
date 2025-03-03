@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.3.1//EN
+N:BLWEB;Raz Roy;;;
+FN:Raz Roy BLWEB
+ORG:Facebook.com;
+EMAIL;type=INTERNET;type=WORK;type=pref:rrazibroy@gmail.com
+TEL;type=HOME;type=VOICE;type=pref:015 4056 4289
+TEL;type=CELL;type=VOICE:8801403072708
+item1.TEL:441403072708
+item1.X-ABLabel:_$!<School>!$_
+item2.URL;type=pref:https://maps.app.goo.gl/wiLkmf1vG4s8PHeN6
+item2.X-ABLabel:_$!<HomePage>!$_
+BDAY:1999-06-05
+END:VCARD
